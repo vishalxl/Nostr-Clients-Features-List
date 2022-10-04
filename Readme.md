@@ -11,17 +11,19 @@ This is the feature list of Nostr clients as of late sept 2022.
 |                |Damus            |Nostr Console  |More-Speech |Astral      |Branle     |Anigma    |Alphaama    |
 |----------------|-----------------|---------------|------------|------------|-----------|----------|------------|
 |Kind 1 or Post  |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
-|Reply           |Yes              |Yes            |Yes        |Yes         |Yes         |No        |Yes         |
+|Reply           |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
+|Mentions        |Yes              |Partly         |Yes         |Yes         |Yes        |No        |Yes         |
 |Reaction        |Yes              |Yes            |No          |No          |No         |No        |Yes         |
 |Delete Post     |No               |Yes            |No          |No          |No         |No        |No          |
+|Direct Messages |Yes              |Yes            |Yes          |Yes         |No         |Yes       |No         |
 |Create Channel  |No               |No             |No           |No          |No         |Yes       |No         |
 |Read Channel Posts  |Yes          |Yes            |No           |No          |No         |Yes       |No         |
 |Post in Channel |Yes              |Yes            |No           |No          |No         |Yes       |No          |
-|Reply in Channel|Yes              |View            |No           |No          |No         |Yes       |No          |
-|NIP5            |Yes              |No            |Yes          |Yes         |Yes        |No        |Yes         |
-|Direct Message  |Yes              |Yes           |Yes          |Yes         |No         |Yes       |No         |
-|Browser         |No               |No            |No           |Yes         |Yes        |Yes       |Yes         |
-|Android         |No               |No            |No           |In Browser  |In Browser        |In Browser|In Browser  |
+|Reply in Channel|Yes              |View           |No           |No          |No         |Yes       |No          |
+|NIP5            |Yes              |No             |Yes          |Yes         |Yes        |No        |Yes         |
+|LN Integration  |No               |No             |No           |No          |No         |Yes       |No          |  
+|Browser         |No               |No             |No           |Yes         |Yes        |Yes       |Yes         |
+|Android         |No               |No             |No           |In Browser  |In Browser        |In Browser|In Browser  |
 |Iphone          |Yes              |No         |No              |In Browser  |In Browser        |In Browser|In Browser  |
 |Linux           |No               |Yes       |Yes          |In Browser  |In Browser        |In Browser|In Browser  |
 |Windows         |No               |Yes        |Yes       |In Browser  |In Browser        |In Browser|In Browser  |
