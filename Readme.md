@@ -17,12 +17,12 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Delete Post     |No               |Yes            |No          |No          |No         |No        |No          |
 |Direct Messages |Yes              |Yes            |Yes          |Yes         |No         |Yes       |No         |
 |Create Channel  |No               |Yes            |No           |No          |No         |Yes       |No         |
-|Read Channel Posts  |Yes          |Yes            |No           |No          |No         |Yes       |No         |
+|Read Channel Posts|Yes            |Yes            |No           |No          |No         |Yes       |No         |
 |Post in Channel |Yes              |Yes            |No           |No          |No         |Yes       |No          |
 |Reply-to in Channel|Yes              |View           |No           |No          |No         |Yes       |No          |
 |NIP5            |Yes              |No             |Yes          |Yes         |Yes        |No        |Yes         |
 |LN Integration  |No               |No             |No           |No          |No         |Yes       |No          |  
-|Browser         |No               |No             |No           |Yes         |Yes        |Yes       |Yes         |
+|Browser-based   |No               |No             |No           |Yes         |Yes        |Yes       |Yes         |
 |Android         |No               |No             |No           |In Browser  |In Browser        |In Browser|In Browser  |
 |Iphone          |Yes              |No         |No              |In Browser  |In Browser        |In Browser|In Browser  |
 |Linux           |No               |Yes       |Yes          |In Browser  |In Browser        |In Browser|In Browser  |
