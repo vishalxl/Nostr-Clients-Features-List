@@ -19,7 +19,7 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Create Channel  |No               |Yes            |No           |No          |No         |Yes       |No         |
 |Read Channel Posts  |Yes          |Yes            |No           |No          |No         |Yes       |No         |
 |Post in Channel |Yes              |Yes            |No           |No          |No         |Yes       |No          |
-|Reply in Channel|Yes              |View           |No           |No          |No         |Yes       |No          |
+|Reply-to in Channel|Yes              |View           |No           |No          |No         |Yes       |No          |
 |NIP5            |Yes              |No             |Yes          |Yes         |Yes        |No        |Yes         |
 |LN Integration  |No               |No             |No           |No          |No         |Yes       |No          |  
 |Browser         |No               |No             |No           |Yes         |Yes        |Yes       |Yes         |
