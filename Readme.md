@@ -29,4 +29,4 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Windows         |No               |Yes        |Yes       |In Browser  |In Browser        |In Browser|In Browser  |
 |MacOS           |Yes              |Yes         |Yes         |In Browser  |In Browser        |In Browser|In Browser  |
 |Link            |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|[main branle](http://branle.netlify.app)|[Anigma](http://anigma.io) |[Alphaama](http://alphaama.com)|
-|Notes           |                 |Terminal App    |Java Built     |            |           |PWA       |            |
+|Notes           | iOS app         |Terminal App    |Java Built     | Uses Vue      |           |PWA       |            |
