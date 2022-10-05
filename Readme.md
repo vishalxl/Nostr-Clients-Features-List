@@ -16,7 +16,7 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Reaction        |Yes              |Yes            |No          |No          |No         |No        |Yes         |
 |Delete Post     |No               |Yes            |No          |No          |No         |No        |No          |
 |Direct Messages |Yes              |Yes            |Yes          |Yes         |No         |Yes       |No         |
-|Create Channel  |No               |No             |No           |No          |No         |Yes       |No         |
+|Create Channel  |No               |Yes            |No           |No          |No         |Yes       |No         |
 |Read Channel Posts  |Yes          |Yes            |No           |No          |No         |Yes       |No         |
 |Post in Channel |Yes              |Yes            |No           |No          |No         |Yes       |No          |
 |Reply in Channel|Yes              |View           |No           |No          |No         |Yes       |No          |
