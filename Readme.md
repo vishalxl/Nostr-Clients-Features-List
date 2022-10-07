@@ -12,7 +12,7 @@ This is the feature list of Nostr clients as of late sept 2022.
 |----------------|-----------------|---------------|------------|------------|-----------|----------|------------|
 |Kind 1 or Post  |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
 |Reply           |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
-|Mentions        |Yes              |Partly         |Yes         |Yes         |Yes        |No        |Yes         |
+|Mentions        |Yes              |Partly         |Yes         |Yes         |Yes        |Yes       |Yes         |
 |Reaction        |Yes              |Yes            |No          |No          |No         |No        |Yes         |
 |Delete Post     |No               |Yes            |No          |No          |No         |No        |No          |
 |Direct Messages |Yes              |Yes            |Yes          |Yes         |No         |Yes       |No         |
