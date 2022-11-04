@@ -8,7 +8,7 @@ This is the feature list of Nostr clients as of late sept 2022.
 
 # Nostr Client Feature List
 
-|                |Damus            |Nostr Console  |More-Speech |Astral      |Branle     |Anigma    |Alphaama    |
+|                |Damus            |Nostr Console  |More-Speech |Astral      |Add new Client Here     |Anigma    |Alphaama    |
 |----------------|-----------------|---------------|------------|------------|-----------|----------|------------|
 |Kind 1 or Post  |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
 |Reply           |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
