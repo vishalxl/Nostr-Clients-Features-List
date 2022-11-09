@@ -8,7 +8,7 @@ This is the feature list of Nostr clients as of late sept 2022.
 
 # Nostr Client Feature List
 
-|                |Damus            |Nostr Console  |More-Speech |Astral      |Add new Client Here     |Anigma    |Alphaama    |
+|                |Damus            |Nostr Console  |More-Speech |Astral      |Add new Here|Anigma    |Alphaama    |
 |----------------|-----------------|---------------|------------|------------|-----------|----------|------------|
 |Kind 1 or Post  |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
 |Reply           |Yes              |Yes            |Yes         |Yes         |Yes        |No        |Yes         |
@@ -28,6 +28,6 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Linux           |No               |Yes       |Yes          |In Browser  |In Browser        |In Browser|In Browser  |
 |Windows         |No               |Yes        |Yes       |In Browser  |In Browser        |In Browser|In Browser  |
 |MacOS           |Yes              |Yes         |Yes         |In Browser  |In Browser        |In Browser|In Browser  |
-|Link            |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|<add here>|[Anigma](http://anigma.io) |[Alphaama](http://alphaama.com)|
-|Maintainer(s)   |@jb55            |@vishaxl       |@unclebobmartin|@monlovesmango|@      |[Brill Saton](https://github.com/brilliancebitcoin)|@balas     |
+|Link            |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[More-speech github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|<add here>|[Anigma](http://anigma.io) |[Alphaama](http://alphaama.com)|
+|Maintainer(s)   |[jb55](https://jb55.com/)            |[vishaxl](https://github.com/vishalxl)  |[Uncle Bob](https://github.com/unclebob/)|[monlovesmango](https://github.com/monlovesmango)|@      |[Brill Saton](https://github.com/brilliancebitcoin)|[balas](https://github.com/eskema)     |
 |Notes           | iOS app         |Terminal App    |Java Built     | Uses Vue      |           |PWA       |            |
