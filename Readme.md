@@ -31,3 +31,10 @@ This is the feature list of Nostr clients as of late sept 2022.
 |Link            |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[More-speech github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|[Nostros Github](https://github.com/KoalaSat/nostros) |[Anigma](http://anigma.io) |[Alphaama](http://alphaama.com)|
 |Maintainer(s)   |[jb55](https://jb55.com/)            |[vishaxl](https://github.com/vishalxl)  |[Uncle Bob](https://github.com/unclebob/)|[monlovesmango](https://github.com/monlovesmango)|[KoalaSat](https://github.com/KoalaSat)  |[Brill Saton](https://github.com/brilliancebitcoin)|[balas](https://github.com/eskema)     |
 |Notes           | iOS app         |Terminal App    |Java Built     | Uses Vue      |           |PWA       |            |
+
+## Other Nostr Social Clients
+
+* Nostrylus.vercel.app 
+* Nostroid
+
+
