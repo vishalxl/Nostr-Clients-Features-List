@@ -34,5 +34,6 @@ This is the feature list of Nostr clients as of Dec 2022.
 
 ## Other Nostr Social Clients
 
-* Nostrylus.vercel.app 
-* Nostroid
+* [Damus Web](http://damus.io/web) - web client in development 
+* [Nostrylus](https://Nostrylus.vercel.app) - web client for DM and public chat
+* [Nostroid](http://chat.nostr.info/) - web client for social network 
