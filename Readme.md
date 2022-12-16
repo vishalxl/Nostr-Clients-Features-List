@@ -1,9 +1,11 @@
 
 # Introduction
 
-Nostr is a decentralized protocol that allows users to take control of their own data and identity. For more information [here](https://github.com/aljazceru/awesome-nostr)
+Nostr is a decentralized protocol that allows users to take control of their own data and identity. For more information check the Nostr project description page [here](https://github.com/nostr-protocol/nostr).
 
-This is the feature list of Nostr clients as of Dec 2022.
+Full list of Nostr clients is on [this page](https://github.com/aljazceru/awesome-nostr).
+
+This is the feature list of some of major Nostr clients.
 
 
 # Nostr Client Feature List
