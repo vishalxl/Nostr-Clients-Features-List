@@ -38,3 +38,4 @@ This is the feature list of some of major Nostr clients.
 
 * [Damus Web](http://damus.io/web) - web client in development 
 * [Nostrylus](https://Nostrylus.vercel.app) - web client for Direct Messages 
+* Python based client Bija, in development
