@@ -10,7 +10,7 @@ This is the feature list of some of major Nostr clients.
 
 # Nostr Client Feature List
 
-|                   |Damus             |Nostr Console     |More-Speech       |Astral            |Nostroid          |Nostros           |Anigma            |Alphaama          |Coracle           |
+|                   |Damus             |Nostr Console     |More-Speech       |Astral            |Nostroid          |Nostros           |Anigma (DONT USE)   |Alphaama          |Coracle           |
 |-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
 |Kind 1 or Post     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
 |Reply              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
@@ -39,3 +39,6 @@ This is the feature list of some of major Nostr clients.
 * [Damus Web](http://damus.io/web) - web client in development 
 * [Nostrylus](https://Nostrylus.vercel.app) - web client for Direct Messages 
 * Python based client Bija, in development
+
+## Note on Anigma.io 
+Anigma.io is vulnurable to xss attacks that can steal your private key. So till those are fixed, its risky to use it. (as of 3rd week of dec) 
