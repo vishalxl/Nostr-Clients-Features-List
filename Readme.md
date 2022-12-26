@@ -12,7 +12,7 @@ This is the feature list of some of major Nostr clients.
 
 |                   |Damus             |Nostr Console     |More-Speech       |Astral            |Nostroid          |Nostros           |Anigma (DONT USE)   |Alphaama          |Coracle           |
 |-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-|Kind 1 or Post     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
+|Kind 1/Post     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
 |Reply              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
 |Mentions           |:heavy_check_mark:|Partly            |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Not sure          |:heavy_check_mark:|:heavy_check_mark:|:x:               |
 |Reaction           |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |Not sure          |:x:               |:heavy_check_mark:|:heavy_check_mark:|
@@ -23,7 +23,7 @@ This is the feature list of some of major Nostr clients.
 |Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
 |Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
 |NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Not sure          |:x:               |:heavy_check_mark:|:x:               |
-|LN Integration     |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
+|LN Integration     |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
 |Browser-based      |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Android            |:x:               |:x:               |:x:               |In Browser        |In Browser        |:heavy_check_mark:|In Browser        |In Browser        |In Browser        |
 |Iphone             |:heavy_check_mark:|:x:               |:x:               |In Browser        |In Browser        |:x:               |In Browser        |In Browser        |In Browser        |
