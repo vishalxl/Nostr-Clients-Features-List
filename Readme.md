@@ -36,6 +36,8 @@ This is the feature list of some of major Nostr clients.
 
 ## Other Nostr Social Clients
 
+* Iris by Martti Malmi
+* Blockcore, with [demo](https://www.youtube.com/watch?v=8HujK37J86E) by Sondre Bjellås 
 * [Damus Web](http://damus.io/web) - web client in development 
 * [Nostrylus](https://Nostrylus.vercel.app) - web client for Direct Messages 
 * Python based client Bija, in development
