@@ -18,7 +18,7 @@ This is the feature list of some of major Nostr clients.
 |Reaction           |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
 |Delete Post        |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
 |Direct Messages    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
-|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
+|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:|
 |Read Channel Posts |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
 |Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
 |Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
