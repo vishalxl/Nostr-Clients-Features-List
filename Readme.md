@@ -10,19 +10,19 @@ This is the feature list of some of major Nostr clients.
 
 # Nostr Client Feature List
 
-|Feature            |Damus             |Nostr Console     |More-Speech       |Astral            |Nostroid          |Nostros           |Anigma (DONT USE) |Alphaama          |Coracle           |
+|Feature            |Damus             |Nostr Console     |More-Speech       |Astral            |Nostroid          |Nostros           |Snort             |Alphaama          |Coracle           |
 |-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-|Kind 1/Post        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
-|Reply              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
+|Kind 1/Post        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Reply              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Mentions           |:heavy_check_mark:|Partly            |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |
-|Reaction           |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|
-|Delete Post        |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
+|Reaction           |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Delete Post        |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
 |Direct Messages    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
-|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
-|Read Channel Posts |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
-|Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|
-|Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
-|NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:heavy_check_mark:|:x:               |
+|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
+|Read Channel Posts |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
+|Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
+|Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
+|NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |
 |LN Integration     |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
 |Browser-based      |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Android            |:x:               |:x:               |:x:               |In Browser        |In Browser        |:heavy_check_mark:|In Browser        |In Browser        |In Browser        |
@@ -30,9 +30,9 @@ This is the feature list of some of major Nostr clients.
 |Linux              |:x:               |:heavy_check_mark:|:heavy_check_mark:|In Browser        |In Browser        |:x:               |In Browser        |In Browser        |In Browser        |
 |Windows            |:x:               |:heavy_check_mark:|:heavy_check_mark:|In Browser        |In Browser        |:x:               |In Browser        |In Browser        |In Browser        |
 |MacOS              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|In Browser        |In Browser        |:x:               |In Browser        |In Browser        |In Browser        |
-|Link               |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[More-speech github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|[nostr.info](https://chat.nostr.info)|[Nostros Github](https://github.com/KoalaSat/nostros) |[Anigma](http://anigma.io) |[Alphaama](http://alphaama.com)|[Coracle](https://coracle.social)|
-|Maintainer(s)      |[jb55](https://jb55.com/)  |[vishaxl](https://github.com/vishalxl)  |[Uncle Bob](https://github.com/unclebob/)   |[mon..](https://github.com/monlovesmango)    |[Leo Giszmo](https://github.com/Giszmo)  |[KoalaSat](https://github.com/KoalaSat)  |[Brill Saton](https://github.com/brilliancebitcoin)   |[balas](https://github.com/eskema)   |[Staab](https://github.com/staab)|
-|Notes              | iOS app          |Terminal App      |Java Built        | Uses Vue, also PW| Svelte PWA       |Android App       |PWA               |                  |Svelte SPA        |
+|Link               |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[More-speech github](https://github.com/unclebob/more-speech)|[main astral](http://astral.ninja)|[nostr.info](https://chat.nostr.info)|[Nostros Github](https://github.com/KoalaSat/nostros) |[Snort](http://snort.social) |[Alphaama](http://alphaama.com)|[Coracle](https://coracle.social)|
+|Maintainer(s)      |[jb55](https://jb55.com/)  |[vishaxl](https://github.com/vishalxl)  |[Uncle Bob](https://github.com/unclebob/)   |[mon..](https://github.com/monlovesmango)    |[Leo Giszmo](https://github.com/Giszmo)  |[KoalaSat](https://github.com/KoalaSat)  |[Kieran et al](https://snort.social/donate)   |[balas](https://github.com/eskema)   |[Staab](https://github.com/staab)|
+|Notes              | iOS app          |Terminal App      |Java Built        | Uses Vue, also PW| Svelte PWA       |Android App       |                  |                  |Svelte SPA        |
 
 ## Other Nostr Social Clients
 
@@ -43,4 +43,4 @@ This is the feature list of some of major Nostr clients.
 * Python based client Bija, in development
 
 ## Note on Anigma.io 
-Anigma.io is vulnurable to xss attacks that can steal your private key. So till those are fixed, its risky to use it. (as of 3rd week of dec) 
+Anigma.io is vulnurable to xss attacks that can steal your private key. So till those are fixed, its risky to use it. 
