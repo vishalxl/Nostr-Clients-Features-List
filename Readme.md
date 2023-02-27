@@ -14,15 +14,15 @@ This is the feature list of some of major Nostr clients.
 |-------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
 |Kind 1/Post        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Reply              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Mentions           |:heavy_check_mark:|Partly            |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |
+|Mentions           |:heavy_check_mark:|Partly            |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Reaction           |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Delete Post        |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:x:               |
-|Direct Messages    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
-|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
+|Direct Messages    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|
+|Create Channel     |:x:               |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |Read Channel Posts |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
-|NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |
+|NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |LN Integration     |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
 |Browser-based      |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Android            |:x:               |:x:               |:x:               |In Browser        |In Browser        |:heavy_check_mark:|In Browser        |In Browser        |In Browser        |
