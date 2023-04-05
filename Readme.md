@@ -22,6 +22,7 @@ This is the feature list of some of major Nostr clients.
 |Read Channel Posts |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |Post in Channel    |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |Reply-to in Channel|:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |
+|Relay Auth (NIP-42)|:x:|:x:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |LN Integration     |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
 |Browser-based      |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
