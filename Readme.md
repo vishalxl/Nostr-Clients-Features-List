@@ -26,7 +26,7 @@ This is the feature list of some of major Nostr clients.
 | | | | OTHER | FEATURES | 
 |Relay Auth (NIP-42)|:x:|:x:|:x:               |:x:               |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|
 |NIP5               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|LN Integration     |:heavy_check_mark:|:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
+|[LN Integration](https://github.com/nostr-protocol/nips/blob/master/57.md)     |:heavy_check_mark:|:x:               |:x:               |:heavy_check_mark:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:x:               |:x:               |
 | | | | PLATFORMS  | AND   | OPERATING  | SYSTEMS |
 |Browser-based      |:x:               |:x:               |:x:               |:x:               |:heavy_check_mark:|:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Android            |:x:               |:x:               |:x:               |:heavy_check_mark:|In Browser        |:heavy_check_mark:|In Browser        |In Browser        |In Browser        |
