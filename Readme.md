@@ -37,7 +37,7 @@ This is the feature list of some of major Nostr clients.
 | | | | ABOUT | INFO | 
 |Link               |[damus](https://damus.io/)|[releases](https://github.com/vishalxl/nostr_console/releases)|[More-speech github](https://github.com/unclebob/more-speech)|[Amethyst Github](https://github.com/vitorpamplona/amethyst)|[nostr.info](https://chat.nostr.info)|[Nostros Github](https://github.com/KoalaSat/nostros) |[Snort](http://snort.social) |[Hamstr](http://hamstr.to)|[Coracle](https://coracle.social)|
 |Maintainer(s)      |[jb55](https://jb55.com/)  |[vishaxl](https://github.com/vishalxl)  |[Uncle Bob](https://github.com/unclebob/)   |[Vitor](https://github.com/vitorpamplona/)    |[Leo Giszmo](https://github.com/Giszmo)  |[KoalaSat](https://github.com/KoalaSat)  |[Kieran et al](https://snort.social/donate)   |[Styppo](https://github.com/styppo)   |[Staab](https://github.com/staab)|
-|Notes              | iOS app          |Terminal App      |Java Built        | Uses Vue, also PW| Svelte PWA       |Android App       |                  |                  |Svelte SPA        |
+|Notes              | iOS app          |Terminal App      |Java Built        | Kotlin/Android | Svelte PWA       |Android App       |                  |                  |Svelte SPA        |
 
 ## Other Nostr Social Clients
 
