@@ -46,6 +46,7 @@ This is the feature list of some of major Nostr clients.
 * [Damus Web](http://damus.io/web) - web client in development 
 * Python based client Bija, in development
 * Web app Nostroid, built using Svelte, by [Giszmo](https://github.com/Giszmo)
+* [Nootti](https://nootti.com), cross-posting iOS/iPad client app for Nostr, Bluesky and Mastodon
 
 ## Note on Anigma.io 
 Anigma.io is vulnurable to xss attacks that can steal your private key. So till those are fixed, its risky to use it. 
